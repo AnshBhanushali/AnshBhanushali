@@ -55,6 +55,6 @@
 <div align="center" style="display:flex; justify-content:center; gap:30px;">
   <a href="https://linkedin.com/in/anshbhanushali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=FFF"/></a>
   <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=FFF"/></a>
-  <a href="https://anshbhanushali-hv4h2r53t-ansh-bhanushalis-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=FFF"/></a>
+  <a href="[https://anshbhanushali-hv4h2r53t-ansh-bhanushalis-projects.vercel.app/](https://anshbhanushali.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=FFF"/></a>
   <a href="mailto:bhanusad@mail.uc.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=FFF"/></a>
 </div>
