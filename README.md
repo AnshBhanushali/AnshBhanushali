@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Animated Neon Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2,00FFFF&height=200&section=header&text=Ansh%20Bhanushali&fontSize=48&fontColor=FFFFFF&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=100&section=header&text=Ansh%20Bhanushali&fontSize=48&fontColor=FFFFFF" alt="header"/>
   <!-- Typing-Effect for Roles -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=700&color=00FFFF&center=true&vCenter=true&width=700&lines=GenAI+Enthusiast;Metaverse+Architect;Security+Advocate;Full-Stack+Engineer;VR+World+Builder" alt="typing roles"/>
   <p style="color:#BBBBBB; margin-top:12px; font-family:'Roboto Mono', monospace; font-style:italic;">"Constructing virtual realms with secure, intelligent code"</p>
