@@ -17,7 +17,7 @@
 - 🏢 **Experience:** GenAI Intern @ Siemens • Research Assistant @ University of Cincinnati  
 - 📝 **Research:** VR-integrated AI • Secure MLOps • Retrieval-Driven AI  
 - 🏆 **Hackathons:** Most Technically Impressive • Best AWS Use
-- 🌟 **Recognized as Most Impactful Intern 2025** @ Siemens
+- 🌟 **Recognized:** Most Impactful Intern 2025 @ Siemens
 - ⚡ **Fun:** Debugs with `console.log()` & bottomless synthwave playlists  
 
 ---
